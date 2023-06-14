@@ -4,5 +4,4 @@ return require('packer').startup(function()
   use 'preservim/nerdtree'
   use 'itchyny/lightline.vim'
   use {'neoclide/coc.nvim', branch = 'release'}
-  use 'qiuxiang/coc-solidity'
 end)
