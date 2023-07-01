@@ -2,6 +2,7 @@
 
 #### 插件列表
 
-- preservim/nerdtree 	文件树查看器
-- itchyny/lightline.vim     状态栏插件
-- neoclide/coc.nvim         代码补全
+- preservim/nerdtree 	        文件树查看器
+- itchyny/lightline.vim       底部状态栏插件
+- folke/tokyonight.nvim       主题插件
+- 'akinsho/bufferline.nvim    多窗口插件
