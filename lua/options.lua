@@ -1,3 +1,4 @@
+--
 -- utf8
 vim.g.encoding = "UTF-8"
 vim.o.fileencoding = 'utf-8'
@@ -58,4 +59,3 @@ vim.o.splitbelow = true
 vim.o.splitright = true
 -- 自动补全不自动选中
 vim.g.completeopt = "menu,menuone,noselect,noinsert"
-
